@@ -1,4 +1,5 @@
 Wireless Sensor Network (WSN) Simulation in Scilab
+
 📌 Project Overview
 
 This project simulates a Wireless Sensor Network (WSN) using Scilab.
@@ -20,11 +21,13 @@ Active node count vs. time
 
 Dead node count vs. time
 
+
 Plots:
 
 Active nodes over time
 
 Dead nodes over time
+
 
 🖥️ Tech Stack
 
@@ -32,11 +35,13 @@ Language: Scilab (open-source alternative to MATLAB)
 
 Concepts: Wireless Sensor Networks, Energy-efficient Routing, Euclidean Distance, Energy Models
 
+
 📊 Simulation Results
 
 Network Lifetime (First Node Death): ~6–10 time steps (varies per run)
 
 All Nodes Dead: By ~100–120 time steps
+
 
 Sample Plots:
 
